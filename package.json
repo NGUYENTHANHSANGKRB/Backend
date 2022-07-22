@@ -1,7 +1,6 @@
 {
   "name": "contactbook-backe",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -16,6 +15,14 @@
   },
   "devDependencies": {
     "nodemon": "^1.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGUYENTHANHSANGKRB/Beckend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NGUYENTHANHSANGKRB/Beckend.git/issues"
+  },
+  "homepage": "https://github.com/NGUYENTHANHSANGKRB/Beckend#readme",
+  "description": ""
 }
-
