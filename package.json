@@ -18,11 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NGUYENTHANHSANGKRB/Beckend.git"
+    "url": "git+https://github.com/NGUYENTHANHSANGKRB/Backend.git"
   },
   "bugs": {
-    "url": "https://github.com/NGUYENTHANHSANGKRB/Beckend.git/issues"
+    "url": "https://github.com/NGUYENTHANHSANGKRB/Backend.git/issues"
   },
-  "homepage": "https://github.com/NGUYENTHANHSANGKRB/Beckend#readme",
+  "homepage": "https://github.com/NGUYENTHANHSANGKRB/Backend#readme",
   "description": ""
 }
