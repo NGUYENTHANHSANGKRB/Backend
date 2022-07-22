@@ -7,7 +7,7 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Hoang Thong",
+  "author": "Nguyen Thanh Sang",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
